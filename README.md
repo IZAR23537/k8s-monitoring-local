@@ -1,5 +1,3 @@
-# k8s-monitoring-local
-=======
 # 🧭 Kubernetes Monitoring Demo
 
 This project demonstrates how to deploy a **Python Flask web application** into a **local Kubernetes cluster** (like Minikube) with integrated **monitoring using Prometheus and Grafana**. It includes both:
