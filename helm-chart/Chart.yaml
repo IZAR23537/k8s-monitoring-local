@@ -1,0 +1,4 @@
+apiVersion: v2
+name: flask-monitoring
+description: A Helm chart for Flask + Prometheus monitoring
+version: 0.1.0
