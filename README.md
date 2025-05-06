@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # k8s-monitoring-local
 =======
 # 🧭 Kubernetes Monitoring Demo
@@ -35,7 +34,7 @@ This project demonstrates how to deploy a **Python Flask web application** into 
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/)
 - [Helm](https://helm.sh/)
-- Docker
+- [Docker](https://www.docker.com/)
 
 ### Step 1: Start Minikube
 ```bash
@@ -89,6 +88,3 @@ You can also check the logs:
 ```bash
 kubectl logs deployment/flask-app
 ```
-
----
->>>>>>> 4ccf8be (First Commit)
